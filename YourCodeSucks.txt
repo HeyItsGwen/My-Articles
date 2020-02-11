@@ -1,0 +1,13 @@
+https://hackernoon.com/watching-other-people-code-is-the-worst-most-confusing-and-most-educational-thing-you-can-do-urp27ek
+
+Watching other people code is the worst, most confusing, and most educational thing you can do.
+Other people’s code sucks. It’s unorganized, confusing, and completely illogical. Yet, despite all that, it can teach you more than many other methods could even dream of, and forces you to think (and learn) completely differently.
+I’ve gotten a lot of experience with pair programming recently, using the driver/navigator approach to finish project together with my partner, and I hate every second of it. Having to actively watch someone work on your code, and having them watch you while you work on theirs, might be one of the worst things I’ve ever had to experience. Like watching someone else raise your child, or take care of your pets, everything they do is wrong.
+
+But at the end of the day, when I hang up the call, I realize how much we accomplished. How much I’ve learned.
+
+You see, when you watch someone else work, critiquing their every keystroke, it puts your mind in a different place. A place where you’re trying to translate their thought processes, their methodology and logic, to your own. Which again, even as I write this, just sounds like the worst possible way to spend my time. However when it’s your turn to write, you stay in that mindset. You think, no matter how subconsciously it may be, how to translate your own thoughts and logic to be more readable, more organized, and more logical.
+
+Now you might think that you already think about these things. That your code is perfectly readable, well organized, that you’re the modern day Shakespeare of your language of choice, but the chances are you’re not. We can all use some help, no matter how good we are, at being better. So every now and then, help someone else. Watch them write, let them watch you, and suffer through watching other people code.
+
+Because next time you work alone, you just might write the best code you’ve ever written.
